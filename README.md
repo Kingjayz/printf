@@ -1,0 +1,1 @@
+This is a team project on C - printf. "printf" is the name of one of the main C output functions, and stands for "print formatted". printf format strings are complementary to scanf format strings, which provide formatted input (lexing aka. parsing).
